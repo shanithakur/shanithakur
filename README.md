@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanithakur&label=Profile%20views&color=0e75b6&style=flat" alt="shanithakur" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, RAG**
-
 - 📫 How to reach me **shanithakur7@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
